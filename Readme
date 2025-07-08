@@ -1,0 +1,47 @@
+
+# Travessence – Travel + Essence; the soul of the journey.
+
+# 🌿 Travessence – Travel + Essence
+
+> **"The roads we take often lead not to places, but to pieces of ourselves."**
+
+**Travessence** is a beautifully designed travel website that blends aesthetics with functionality. It offers users an engaging experience to explore destinations, view special picks, book curated travel packages, and stay connected through a newsletter. Inspired by nature and friendship, this site reflects the soul of a journey, not just the destination.
+
+---
+
+## 🌍 Project Overview
+
+Travessence is a travel-themed web project crafted using **HTML5** and **CSS3**. It features responsive layouts, visually rich destination cards, and themed sections like *Friendship Valley*, *Special Picks*, *Popular Destinations*, and *Travel Packages*.
+
+---
+
+## 🔧 Features
+
+- 🌄 **Hero Section** with poetic travel inspiration and CTAs
+- ✨ **Special Pick**: "Friendship Valley" — A highlight destination for bonding
+- 🧳 **Popular Destinations** with images, durations, pricing, and perks
+- 📦 **Curated Travel Packages** like Beach Getaways, Desert Safari, Urban Explorer, etc.
+- 📬 **Newsletter Subscription** to get travel inspiration directly
+- 📱 **Responsive Design** that adapts across devices
+- 🌐 **Social Links** and Footer with essential links & contact info
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Description |
+|------------|-------------|
+| HTML5      | Structure of the webpage |
+| CSS3       | Styling and responsive layout |
+| Google Fonts | 'Montserrat' for typography |
+| Unsplash / Shutterstock | High-quality destination imagery |
+
+---
+
+## 📁 Project Structure
+
+Travessence/
+├── index.html # Main HTML file
+├── base.css # Main CSS stylesheet
+├── images/ # (Optional) Local images folder
+└── README.md # You're reading it!

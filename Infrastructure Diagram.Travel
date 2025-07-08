@@ -1,0 +1,35 @@
+
+
+Travessence – Travel + Essence; the soul of the journey.   
+                       
+                       
+                       
+                        +----------------------------+
+                        |       End Users            |
+                        | (Mobile / Desktop Browsers)|
+                        +------------+---------------+
+                                     |
+                                     v
+                   +----------------------------------------+
+                   |        Content Delivery Network (CDN)  |
+                   |  (Optional - speeds up static content) |
+                   +----------------+-----------------------+
+                                    |
+                                    v
+                    +---------------------------------+
+                    |      Web Hosting Service        |
+                    | (e.g., GitHub Pages / Netlify / |
+                    |    Vercel / Firebase Hosting)   |
+                    +--------+--------------+---------+
+                             |              |
+                +------------+              +-------------+
+                |                                         |
+       +--------v---------+                     +--------v---------+
+       |   index.html     |                     |     base.css     |
+       |  (HTML Content)  |                     | (Styling/Layout) |
+       +------------------+                     +------------------+
+
+                             +---------------------------+
+                             |     Optional Images CDN   |
+                             |(Unsplash, Cloudinary etc.)|
+                             +---------------------------+
